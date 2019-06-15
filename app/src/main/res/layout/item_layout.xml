@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
-        android:layout_alignTop="@+id/nameTextView"
+        android:layout_alignTop="@+id/progressTextView"
         android:layout_marginEnd="36dp"
         android:text="Price" />
 </RelativeLayout>
